@@ -1,0 +1,39 @@
+# Local environments and caches
+.conda-r/
+.venv/
+venv/
+.runtime/
+__pycache__/
+*.pyc
+
+# Working copies, original private data and temporary outputs
+.archive/
+archive/
+data/raw/
+*.bak
+*.backup
+*.tmp
+*.log
+~$*
+
+# R sessions and incidental graphics
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+Rplots.pdf
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Regenerable chart images
+/plots/
+
+# Local editable Word documents
+*.docx
+
+# LibreOffice temporary lock files
+.~lock.*#

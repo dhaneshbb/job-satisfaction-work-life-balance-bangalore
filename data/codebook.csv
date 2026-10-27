@@ -1,0 +1,67 @@
+field,code,label,source
+Gender,Female,Female,Recorded label
+Gender,Male,Male,Recorded label
+Marital.status,Married,Married,Historical report frequency table
+Marital.status,Unmarried,Unmarried,Historical report frequency table
+Years.Of.Experience,1,Less than a year,Historical report frequency table
+Years.Of.Experience,2,1 - 3 years,Historical report frequency table
+Years.Of.Experience,3,3 - 5 years,Historical report frequency table
+Years.Of.Experience,4,More than 5 years,Historical report frequency table
+Average.Weekly.Remote.Work.Hours,1,Less than 10 hours,Historical report frequency table
+Average.Weekly.Remote.Work.Hours,2,10 - 20 hours,Historical report frequency table
+Average.Weekly.Remote.Work.Hours,3,20 - 30 hours,Historical report frequency table
+Average.Weekly.Remote.Work.Hours,4,More than 30 hours,Historical report frequency table
+Work.Related.Illness,1,Yes,Historical report frequency table
+Work.Related.Illness,2,No,Historical report frequency table
+Difficulty.Unplugging.From.Technology,1,Frequently,Historical report frequency table
+Difficulty.Unplugging.From.Technology,2,Occasionally,Historical report frequency table
+Difficulty.Unplugging.From.Technology,3,Sometimes,Historical report frequency table
+Difficulty.Unplugging.From.Technology,4,Rarely,Historical report frequency table
+Declining.Social.Engagements,1,Frequently,Historical report frequency table
+Declining.Social.Engagements,2,Occasionally,Historical report frequency table
+Declining.Social.Engagements,3,Sometimes,Historical report frequency table
+Declining.Social.Engagements,4,Rarely,Historical report frequency table
+Engaging.In.Professional.Development,1,Frequently,Historical report frequency table
+Engaging.In.Professional.Development,2,Occasionally,Historical report frequency table
+Engaging.In.Professional.Development,3,Sometimes,Historical report frequency table
+Engaging.In.Professional.Development,4,Rarely,Historical report frequency table
+Physical.Activity,1,Frequently,Historical report frequency table
+Physical.Activity,2,Occasionally,Historical report frequency table
+Physical.Activity,3,Sometimes,Historical report frequency table
+Physical.Activity,4,Rarely,Historical report frequency table
+Impact.of.Remote.Work.On.Productivity,1,Positive impact,Historical report frequency table
+Impact.of.Remote.Work.On.Productivity,2,No positive impact,Historical report frequency table
+Job.Dissatisfaction.Aspects,1,Heavy Workload,Historical report frequency table
+Job.Dissatisfaction.Aspects,2,Lack of Recognition or Appreciation,Historical report frequency table
+Job.Dissatisfaction.Aspects,3,Poor Work-Life Balance,Historical report frequency table
+Job.Dissatisfaction.Aspects,4,Lack of Job Security,Historical report frequency table
+Job.Dissatisfaction.Aspects,5,Inadequate Opportunities for Growth,Historical report frequency table
+Job.Dissatisfaction.Aspects,6,Unclear Job Expectations,Historical report frequency table
+Job.Dissatisfaction.Aspects,7,Insufficient Compensation or Benefits,Historical report frequency table
+Job.Dissatisfaction.Aspects,8,Ineffective Communication with Colleagues or Management,Historical report frequency table
+Job.Dissatisfaction.Aspects,9,Limited Opportunities for Skill Development,Historical report frequency table
+Job.Dissatisfaction.Aspects,10,Insufficient Training or Resources,Historical report frequency table
+Job.Dissatisfaction.Aspects,11,Discrimination or Harassment,Historical report frequency table
+Satisfaction.Current.Job,1,1,Historical report frequency table
+Satisfaction.Current.Job,2,2,Historical report frequency table
+Satisfaction.Current.Job,3,3,Historical report frequency table
+Satisfaction.Current.Job,4,4,Historical report frequency table
+Satisfaction.Current.Job,5,5,Historical report frequency table
+Satisfaction.Current.Job,6,6,Historical report frequency table
+Satisfaction.Current.Job,7,7,Historical report frequency table
+Satisfaction.Current.Job,8,8,Historical report frequency table
+Satisfaction.Current.Job,9,9,Historical report frequency table
+Satisfaction.Current.Job,10,10,Historical report frequency table
+Satisfaction.Dependent.Care.Support,1,1,Historical report frequency table
+Satisfaction.Dependent.Care.Support,2,2,Historical report frequency table
+Satisfaction.Dependent.Care.Support,3,3,Historical report frequency table
+Satisfaction.Dependent.Care.Support,4,4,Historical report frequency table
+Satisfaction.Dependent.Care.Support,5,5,Historical report frequency table
+Satisfaction.Dependent.Care.Support,6,6,Historical report frequency table
+Satisfaction.Dependent.Care.Support,7,7,Historical report frequency table
+Satisfaction.Dependent.Care.Support,8,8,Historical report frequency table
+Satisfaction.Dependent.Care.Support,9,9,Historical report frequency table
+Satisfaction.Dependent.Care.Support,10,10,Historical report frequency table
+Stress.Management.Approach,1,Exercise,Historical report frequency table
+Stress.Management.Approach,2,Meditation,Historical report frequency table
+Stress.Management.Approach,3,Hobbies,Historical report frequency table
